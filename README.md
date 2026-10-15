@@ -83,7 +83,6 @@ Repository Structure
 - "SalesModel.SemanticModel" — Semantic model.
 - "SalesReport.Report" — Reporting layer.
 
-Note: The descriptions above summarize the intended roles of the repository components; exact implementation details may vary.
 
 Author
 
